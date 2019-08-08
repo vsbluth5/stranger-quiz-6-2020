@@ -4,3 +4,10 @@
 // prints "hi" in the browser's dev tools console
 console.log('hi');
 
+let userInput = document.querySelector("#userInput")
+
+console.log(userInput)
+
+userInput.addEventListener("input", (e) => {
+  console.log("event firing")
+})
