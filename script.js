@@ -4,11 +4,3 @@
 // prints "hi" in the browser's dev tools console
 console.log('hi');
 
-let inputBox = document.querySelector('input')
-
-console.log(inputBox)
-
-inputBox.addEventListener("input", (e) => {
-  console.log(inputBox.value)
-  inputBox.value = ""
-})
