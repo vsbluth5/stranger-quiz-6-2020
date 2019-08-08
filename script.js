@@ -5,9 +5,15 @@
 console.log('hi');
 
 let userInput = document.querySelector("#userInput")
+let pictureBox = document.querySelector("#pictureBox")
 
 console.log(userInput)
+console.log(pictureBox)
 
 userInput.addEventListener("input", (e) => {
-  console.log("event firing")
+  console.log(userInput.value)
+  if (userInput.value == "Eleven") {
+    console.log("YOU GOT IT!")
+    pictureBox.innerHTML 
+  }
 })
