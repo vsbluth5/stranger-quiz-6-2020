@@ -16,7 +16,7 @@ Timer
 Tally marks for how many times they get it right
 Handle repeating images
 Handle name variations (upper/lowercase)
-Handle nicknames (EL v. Eleven)
+Handle nicknames (EL v. Eleven, and Toothless v. Dustin)
 Handle errors (specifically with a "change" listener)
 Sound when you get the right answer (or theme song)
 Auto-erase
