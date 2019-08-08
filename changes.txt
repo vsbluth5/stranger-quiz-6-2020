@@ -1,0 +1,12 @@
+PARTNER A
+Background color
+Font style
+Center the title
+Image size
+
+PARTNER B
+Font size of title
+Color of the title (outline)
+Color of the text
+Spacing
+Grey box around photos

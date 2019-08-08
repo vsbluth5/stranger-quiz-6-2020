@@ -5,11 +5,19 @@
 
 input {}
 
-body {}
+body {
+  background-color:black;
+}
 
-img {}
+img {
+  height: 400px;
+}
 
-#quizTitle {}
+#quizTitle {
+  color: red;
+  font-family: "Strange";
+  text-align: center;
+}
 
 #pictureBox {}
 
