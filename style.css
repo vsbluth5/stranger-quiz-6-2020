@@ -3,10 +3,18 @@
   src: url("https://cdn.glitch.com/01b27d37-a07e-4e2e-8caf-659256274937%2FBenguiat%20Bold.ttf?v=1565268317646");
 }
 
+input {
+  color: white;
+}
+
 body {
   font-family: "Strange";
   color: white;
   background-color: black;
+}
+
+img {
+  height: 400px;
 }
 
 #quizTitle {
@@ -22,7 +30,7 @@ body {
   margin-top: 75px;
   margin-bottom: 25px;
   background-color: #212324;
-  min-height: 500px;
+  min-height: 400px;
 }
 
 #message {
