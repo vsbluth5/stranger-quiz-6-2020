@@ -3,47 +3,14 @@
   src: url("https://cdn.glitch.com/01b27d37-a07e-4e2e-8caf-659256274937%2FBenguiat%20Bold.ttf?v=1565268317646");
 }
 
-input {
-  color: white;
-  font-size: 2rem;
-  background: black;
-  border: none;
-  outline: none;
-  border-bottom: 1px solid grey;
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
-}
+input {}
 
-body {
-  background-color:black;
-}
+body {}
 
-img {
-  height: 400px;
-}
+img {}
 
-#quizTitle {
-  color: red;
-  font-family: "Strange";
-  text-align: center;
-  -webkit-text-stroke: 2px red;
-  -webkit-text-fill-color: black;
-  margin-bottom: 50px;
-  margin-top: 75px;
-}
+#quizTitle {}
 
-#pictureBox {
-  margin-top: 75px;
-  background-color: #222222;
-}
+#pictureBox {}
 
-#message {
-  color: white;
-  margin-top: 25px;
-  margin-bottom: 25px;
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: 900;
-  font-family: sans-serif;
-}
+#message {}
