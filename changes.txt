@@ -1,7 +1,7 @@
 PARTNER A
 DONE Background color
 DONE Center the title
-Horizontal line (different style of input)
+DONE Horizontal line (different style of input)
 Font looks different
 Text at the bottom needs to get larger and needs to be centered.
 

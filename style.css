@@ -23,6 +23,12 @@ img {}
 #quizTitle {
   text-align: center;
   color: red;
+  font-family: "Strange";
+  -webkit-text-fill-color: black; 
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: red;
+  margin-top: 75px;
+  margin-bottom: 75px;
 }
 
 #pictureBox {}
