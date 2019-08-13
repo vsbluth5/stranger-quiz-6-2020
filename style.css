@@ -3,13 +3,27 @@
   src: url("https://cdn.glitch.com/01b27d37-a07e-4e2e-8caf-659256274937%2FBenguiat%20Bold.ttf?v=1565268317646");
 }
 
-input {}
+input {
+  background-color: black;
+  color: white;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid grey;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
 
-body {}
+body {
+  background-color: black;
+}
 
 img {}
 
-#quizTitle {}
+#quizTitle {
+  text-align: center;
+  color: red;
+}
 
 #pictureBox {}
 

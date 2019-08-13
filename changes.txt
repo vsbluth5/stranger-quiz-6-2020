@@ -1,12 +1,15 @@
-Background color
-Center the title
+PARTNER A
+DONE Background color
+DONE Center the title
 Horizontal line (different style of input)
 Font looks different
 Text at the bottom needs to get larger and needs to be centered.
+
+PARTNER B
 Color of text at the bottom
 There's a container for the picture
 Grey background
-Title color
+DONE Title color
 Picture is smaller
 There's space between elements
 - 
