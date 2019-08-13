@@ -6,6 +6,12 @@
 input {
   color: white;
   font-size: 2rem;
+  background: black;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid grey;
+  width: 80%;
+  margin: auto;
 }
 
 body {
@@ -31,4 +37,12 @@ img {
   background-color: #222222;
 }
 
-#message {}
+#message {
+  color: white;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 900;
+  font-family: sans-serif;
+}
