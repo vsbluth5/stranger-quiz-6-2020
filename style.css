@@ -18,7 +18,9 @@ body {
   background-color: black;
 }
 
-img {}
+img {
+  height: 400px;
+}
 
 #quizTitle {
   text-align: center;
@@ -31,6 +33,15 @@ img {}
   margin-bottom: 75px;
 }
 
-#pictureBox {}
+#pictureBox {
+  background-color: #222;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
 
-#message {}
+#message {
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+

@@ -2,14 +2,14 @@ PARTNER A
 DONE Background color
 DONE Center the title
 DONE Horizontal line (different style of input)
-Font looks different
+DONE Font looks different
 Text at the bottom needs to get larger and needs to be centered.
 
 PARTNER B
 Color of text at the bottom
-There's a container for the picture
-Grey background
+DONE There's a container for the picture
+DONE Grey background
 DONE Title color
-Picture is smaller
+DONE Picture is smaller
 There's space between elements
 - 
