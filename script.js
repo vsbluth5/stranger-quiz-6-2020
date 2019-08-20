@@ -2,4 +2,8 @@
     to your site with Javascript */
 
 // prints "hi" in the browser's dev tools console
-console.log('hi');
+console.log('hi jeff');
+
+const textbox = document.querySelector("#userInput")
+console.log(textbox)
+
