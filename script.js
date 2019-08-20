@@ -16,5 +16,15 @@ textbox.addEventListener("input", (e)=> {
   if (textbox.value === "Eleven"){
     console.log("YOU WIN!")
     pictureBox.innerHTML += '<img src="https://cdn.glitch.com/01b27d37-a07e-4e2e-8caf-659256274937%2FScreen%20Shot%202019-08-08%20at%208.39.11%20AM.png?v=1565269664594"/>'
-  }
+  } else if (textbox.value ==="Dustin"){
+    console.log("YOU GOT DUSTIN!")
+    pictureBox.innerHTML += '<img src="https://cdn.glitch.com/01b27d37-a07e-4e2e-8caf-659256274937%2FScreen%20Shot%202019-08-08%20at%208.39.21%20AM.png?v=1565269664037" />'
+  } 
 })
+
+
+
+
+
+
+
