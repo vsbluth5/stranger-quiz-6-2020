@@ -7,3 +7,9 @@ console.log('hi jeff');
 const textbox = document.querySelector("#userInput")
 console.log(textbox)
 
+const pictureBox = document.querySelector("#pictureBox")
+console.log(pictureBox)
+
+textbox.addEventListener("input", (e)=> {
+  console.log("Key pressed!")
+})
