@@ -2,7 +2,7 @@
     to your site with Javascript */
 
 // prints "hi" in the browser's dev tools console
-console.log('hi jeff');
+console.log('Script Working');
 
 const textbox = document.querySelector("#userInput")
 console.log(textbox)
