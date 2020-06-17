@@ -37,16 +37,21 @@ DOM_Node_to_listen_on.addEventListener("EVENT_TO_LISTEN_FOR", (e)=> {
 
 
 // Inside of the if Add to the innerHTML property of the pictureBox
+
 // Look at pictureBox.innerTHML in the console.
-// Now add to pictureBox.innerHTML
+
+// Now add to pictureBox.innerHTML You should use BACKTICS `` (top left of keyboard with ~)
+
 // Use tags like >h3? in the innerHTML and see what happens
-// Now add <img src="https://cdn.glitch.com/01b27d37-a07e-4e2e-8caf-659256274937%2FScreen%20Shot%202019-08-08%20at%208.39.11%20AM.png?v=1565269664594"/>`;
+
+// Now add <img src="https://cdn.glitch.com/01b27d37-a07e-4e2e-8caf-659256274937%2FScreen%20Shot%202019-08-08%20at%208.39.11%20AM.png?v=1565269664594"/>
  
-If you <img src="https://cdn.glitch.com/01b27d37-a07e-4e2e-8caf-659256274937%2FScreen%20Shot%202019-08-08%20at%208.39.21%20AM.png?v=1565269664037" />`;
-  }
-  // Build out another branch of this if statement
-  // with a console.log statement for at least one other character.
-  else {
-    console.log("No match...");
-  }
-});
+// If you are checking for Dustin addL <img src="https://cdn.glitch.com/01b27d37-a07e-4e2e-8caf-659256274937%2FScreen%20Shot%202019-08-08%20at%208.39.21%20AM.png?v=1565269664037" />
+
+
+//Challenges: 
+// 1. Add all the characters.
+// 2. If user types in correct answer, automatically erase it
+// 3. Don't allow duplicates
+// 4. Keep score.
+// 4. Add a timer.
