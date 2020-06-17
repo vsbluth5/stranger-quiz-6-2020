@@ -2,7 +2,7 @@
     to your site with Javascript */
 
 // prints "hi" in the browser's dev tools console
-// console.log("Script Running");
+console.log("Script Running");
 
 // Select the input element using its id, and store that in a variable called textbox
 const textbox = document.querySelector("#userInput");
