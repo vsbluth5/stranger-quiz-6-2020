@@ -19,5 +19,26 @@ console.log(textbox)
 const pictureBox = document.querySelector("#pictureBox")
 console.log(pictureBox)
 
+// Now we want an event listener to listen to an event (e) to wait for
+/* 
+DOM_Node_to_listen_on.addEventListener("EVENT_TO_LISTEN_FOR", (e)=> {
+    WHAT_TO_DO_WHEN_IT_HAPPENS.
+})
+*/
 
+textbox.addEventListener("click", (e)=> {
+  console.log("You clicked!")
+})
 
+// Try "input" and "change" for the event type and decide which you prefer
+
+// The value property
+textbox.addEventListener("input", (e)=> {
+  console.log("Key pressed!")
+  console.log(textbox.value)
+  
+  // How do we test to see if have a certain value?
+    if (textbox.value === "Eleven"){
+    console.log("YOU GOT ELEVEN!")
+  
+})
