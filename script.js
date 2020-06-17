@@ -40,5 +40,20 @@ textbox.addEventListener("input", (e)=> {
   // How do we test to see if have a certain value?
     if (textbox.value === "Eleven"){
     console.log("YOU GOT ELEVEN!")
+      
+            // Add to the innerHTML property of the pictureBox
+      // console.log(pictureBox.innerHTML)
+      pictureBox.innerHTML += `YOU GOT ELEVEN!`
+    
+    }
+        // Build out another branch of this if statement 
+      // with a console.log statement for at least one other character.
+      
+
+  else {
+    console.log("No match...")
+  }
   
 })
+
+
